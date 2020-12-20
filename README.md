@@ -2,19 +2,35 @@
 
 > Richardson`s method
 
-```
-<img src="/gif/1.gif" width="100" height="100"/>
+![](https://github.com/aktumar/Heat_Transfer.git/blob/master/gif/1.gif)
 
-<img src="/gif/2.gif" width="100" height="100"/>
+![](https://github.com/aktumar/Heat_Transfer.git/blob/master/gif/2.gif)
 
-<img src="/gif/3.gif" width="100" height="100"/>
+![](https://github.com/aktumar/Heat_Transfer.git/blob/master/gif/3.gif)
 
-<img src="/gif/4.gif" width="100" height="100"/>
+![](https://github.com/aktumar/Heat_Transfer.git/blob/master/gif/4.gif)
 
-<img src="/gif/5.gif" width="100" height="100"/>
+![](https://github.com/aktumar/Heat_Transfer.git/blob/master/gif/5.gif)
 
-<img src="/gif/6.gif" width="100" height="100"/>
+![](https://github.com/aktumar/Heat_Transfer.git/blob/master/gif/6.gif)
 
-<img src="/gif/7.gif" width="100" height="100"/>
+![](https://github.com/aktumar/Heat_Transfer.git/blob/master/gif/7.gif)
 
-```
+
+
+<img src="/gif/2.gif" width="200" height="200"/>   <img src="/gif/3.gif" width="200" height="200"/>  <img src="/gif/4.gif" width="200" height="200"/>  <img src="/gif/5.gif" width="200" height="200"/> 
+
+<img src="/gif/6.gif" width="200" height="200"/>   <img src="/gif/7.gif" width="200" height="200"/>  <img src="/gif/1.gif" width="200" height="200"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
