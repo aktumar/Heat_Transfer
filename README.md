@@ -1,6 +1,12 @@
 # Numerical Solution of Heat Transfer (OpenGL)
 
-> Richardson`s method
+> RICHARDSON`S METHOD
+
+$$
+ψ_(i,j)^(k+1)=1/2(1+β^2 )  (〖ψ_(i+1,j)^k+ψ_(i-1,j)^k  +β^2 ψ_(i,j+1)^k+β^2 ψ_(i,j-1)^k-〖Δx〗^2 w〗_(i,j)  )
+$$
+
+![](https://github.com/aktumar/Heat_Transfer.git/blob/master/ex.png)
 
 <img src="/gif/2.gif" width="200" height="200"/>   <img src="/gif/3.gif" width="200" height="200"/>  <img src="/gif/4.gif" width="200" height="200"/>  <img src="/gif/5.gif" width="200" height="200"/> 
 
