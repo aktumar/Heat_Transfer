@@ -1,6 +1,7 @@
 ﻿  Visualization.cpp
-d:\универ\3. phd\1 семестр\чисмет\код\heat transfer with opengl (2d)\cs-cg\visualization.cpp(209): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-d:\универ\3. phd\1 семестр\чисмет\код\heat transfer with opengl (2d)\cs-cg\visualization.cpp(231): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
-d:\универ\3. phd\1 семестр\чисмет\код\heat transfer with opengl (2d)\cs-cg\visualization.cpp(276): warning C4305: инициализация: усечение из "double" в "float"
-d:\универ\3. phd\1 семестр\чисмет\код\heat transfer with opengl (2d)\cs-cg\visualization.cpp(277): warning C4305: инициализация: усечение из "double" в "float"
+d:\универ\3. phd\1 семестр\чисмет\код\heat transfer with opengl (2d)\cs-cg\visualization.cpp(33): warning C4305: инициализация: усечение из "double" в "float"
+d:\универ\3. phd\1 семестр\чисмет\код\heat transfer with opengl (2d)\cs-cg\visualization.cpp(229): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\универ\3. phd\1 семестр\чисмет\код\heat transfer with opengl (2d)\cs-cg\visualization.cpp(245): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+d:\универ\3. phd\1 семестр\чисмет\код\heat transfer with opengl (2d)\cs-cg\visualization.cpp(290): warning C4305: инициализация: усечение из "double" в "float"
+d:\универ\3. phd\1 семестр\чисмет\код\heat transfer with opengl (2d)\cs-cg\visualization.cpp(291): warning C4305: инициализация: усечение из "double" в "float"
   CS-CG.vcxproj -> D:\Универ\3. PhD\1 семестр\Чисмет\Код\Heat transfer with OpenGL (2D)\Debug\CS-CG.exe
