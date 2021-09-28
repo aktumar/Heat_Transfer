@@ -3,6 +3,8 @@
 > 1. Richardson`s method
 > 2. Alternating-direction implicit method
 
+**Results:**
+
 <img src="ex.png" width="840" height="700"/>
 
 <img src="/gif/2.gif" width="300" height="300"/>   <img src="/gif/3.gif" width="300" height="300"/>  <img src="/gif/4.gif" width="300" height="300"/>  
