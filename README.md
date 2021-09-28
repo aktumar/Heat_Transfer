@@ -3,11 +3,7 @@
 > 1. Richardson`s method
 > 2. Alternating-direction implicit method
 
-$$
-ψ_(i,j)^(k+1)=1/2(1+β^2 )  (〖ψ_(i+1,j)^k+ψ_(i-1,j)^k  +β^2 ψ_(i,j+1)^k+β^2 ψ_(i,j-1)^k-〖Δx〗^2 w〗_(i,j)  )
-$$
-
-<img src="ex.png" width="700" height="420"/>
+<img src="ex.png" width="840" height="700"/>
 
 <img src="/gif/2.gif" width="300" height="300"/>   <img src="/gif/3.gif" width="300" height="300"/>  <img src="/gif/4.gif" width="300" height="300"/>  
 
